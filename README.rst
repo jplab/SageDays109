@@ -97,8 +97,6 @@ Worksheets
 Polyhedral Geometry in Sage
 -----------------------------
 
-Here is a short presentation about Sage
-
 .. image:: https://mybinder.org/badge.svg 
    :target: https://mybinder.org/v2/gh/jplab/SageDays109/master?filepath=PolyhedralGeometry.ipynb
 
