@@ -13,7 +13,7 @@ Here is the worksheet of Jean-Philippe's talk at the Sage Days:
 .. image:: https://mybinder.org/badge.svg 
    :target: https://mybinder.org/v2/gh/jplab/SageDays109/master?filepath=PolyhedralGeometry.ipynb
 
-An html version of the slides is `available here <http://htmlpreview.github.io/?https://github.com/jplab/SageDays109/blob/master/PolyhedralGeometry.slides.html>`_
+An html version of the slides is `available here <http://htmlpreview.github.io/?https://github.com/jplab/SageDays109/blob/master/PolyhedralGeometry.html>`_
 
 Combinatorial Polyhedron Object in Sage
 ----------------------------------------
