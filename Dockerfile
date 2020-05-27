@@ -2,7 +2,7 @@
 # Reference:
 # https://mybinder.readthedocs.io/en/latest/dockerfile.html#preparing-your-dockerfile
 
-FROM sagemath/sagemath-develop:9.1
+FROM sagemath/sagemath-develop:9.0
 RUN sage -pip install tqdm RISE
 RUN sage -i pynormaliz normaliz
 RUN echo "jupyter-nbextension install rise --py --sys-prefix" | sage -sh
