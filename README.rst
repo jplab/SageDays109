@@ -2,6 +2,32 @@
 SageDays 109: Combinatorics and Geometry of Polyhedra in Sage
 ===================================================================================
 
+Worksheets
+==============
+
+Polyhedral Geometry in Sage
+-----------------------------
+
+Here is the worksheet of Jean-Philippe's talk at the Sage Days:
+
+.. image:: https://mybinder.org/badge.svg 
+   :target: https://mybinder.org/v2/gh/jplab/SageDays109/master?filepath=PolyhedralGeometry.ipynb
+
+Combinatorial Polyhedron Object in Sage
+----------------------------------------
+
+Here is the worksheet of Jonathan's talk at the Sage Days:
+
+.. image:: https://mybinder.org/badge.svg 
+   :target: https://mybinder.org/v2/gh/jplab/SageDays109/master?filepath=CombinatorialPolyhedron.ipynb
+
+Tutorials
+==========
+
+A detailed tutorial is available as an `online tutorial <http://doc.sagemath.org/html/en/thematic_tutorials/geometry/polyhedra_tutorial.html>`_.
+
+There are other tutorials `available here <http://doc.sagemath.org/html/en/thematic_tutorials/geometry.html>`_
+
 Acknowledgements of Support
 ================================
 
@@ -90,17 +116,3 @@ Roadmap on Optimization and Polyhedral Geometry in Sage
 
 https://wiki.sagemath.org/OptiPolyGeom
 https://trac.sagemath.org/wiki/SagePolyhedralGeometry
-
-Worksheets
-==============
-
-Polyhedral Geometry in Sage
------------------------------
-
-.. image:: https://mybinder.org/badge.svg 
-   :target: https://mybinder.org/v2/gh/jplab/SageDays109/master?filepath=PolyhedralGeometry.ipynb
-
-
-A detailed tutorial is available as an `online tutorial <http://doc.sagemath.org/html/en/thematic_tutorials/geometry/polyhedra_tutorial.html>`_.
-
-There are other tutorials `available here <http://doc.sagemath.org/html/en/thematic_tutorials/geometry.html>`_
